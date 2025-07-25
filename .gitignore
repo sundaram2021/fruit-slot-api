@@ -1,0 +1,6 @@
+coverage.*
+# Coverage profile files
+coverage.out
+
+# binaries
+play
