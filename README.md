@@ -29,7 +29,7 @@ This project implements a basic random-outcome API using Go and the Gin web fram
     ```bash
     ./play
     ```
-    The server will start on `http://localhost:8080` by default. You can change the port using the `PORT` environment variable (e.g., `PORT=3000 ./play`).
+    The server will start on `http://localhost:8080` by default.
 
 ## API Endpoints
 
